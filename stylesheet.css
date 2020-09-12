@@ -37,6 +37,10 @@ a {
   margin-bottom: 40px;
 }
 
+.top-logo {
+  width: 100%
+}
+
 .btn-wrapper {
   text-align: center;
 }
